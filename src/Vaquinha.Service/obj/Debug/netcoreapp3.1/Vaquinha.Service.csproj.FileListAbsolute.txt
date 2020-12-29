@@ -1,0 +1,14 @@
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\dotnet-vaquinha-tests-master\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb
